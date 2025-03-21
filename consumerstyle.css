@@ -317,7 +317,7 @@
     .filter-section button {
         width: 100%;
         padding: 10px;
-        margin: 10px 0;
+        margin: 10px 5px;
         border: 1px solid #ccc;
         border-radius: 5px;
     }
